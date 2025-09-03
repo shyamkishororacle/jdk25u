@@ -52,7 +52,7 @@ import java.util.function.Consumer;
  * @see nsk.share.jdi.Debugee
  * @see nsk.share.jdwp.Debugee
  */
-abstract public class DebugeeProcess {
+public class DebugeeProcess {
 
     /** Default prefix for log messages. */
     public static final String LOG_PREFIX = "binder> ";
